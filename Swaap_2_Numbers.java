@@ -10,8 +10,10 @@ public class Swaap_2_Numbers {
     }
 
     public static void main(String[] args) {
-        int x = 1;
-        int y = 2;
+        int m = 9;
+        int n = 5;
+
+        swapValue(m, n);
 
     }
     
